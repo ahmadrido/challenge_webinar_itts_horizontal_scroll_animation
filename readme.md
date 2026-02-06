@@ -54,7 +54,7 @@ Bikin screenshot/video demonya, tag:
 ---
 
 ## 📚 Resources
-- [MDN: CSS Scroll-driven Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll-driven_animations)
+- [MDN: CSS Scroll-driven Animations](https://scroll-driven-animations.style/)
 - [Chrome Developers: Scroll-driven Animations](https://developer.chrome.com/articles/scroll-driven-animations/)
 
 
