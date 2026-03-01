@@ -3,6 +3,9 @@
 ## 📋 Deskripsi
 Challenge untuk membuat animasi scroll horizontal menggunakan CSS Scroll-Driven Animations modern!
 
+## live demo
+[klik disini!](https://challengemoderncss.vercel.app/)
+
 ## 🎯 Tugas
 
 ### 1. Text Overlay Animation (Slide dari Kiri)
@@ -49,7 +52,6 @@ animation-range: entry 0% cover 100%;
 ## ✅ BERHASIL?
 Bikin screenshot/video demonya, tag: 
 - **@ahmdrydn** 
-- **@ittstangsel**
 
 ---
 
